@@ -1,9 +1,3 @@
-1. Changing authentication type in the database (if we choose thirdparty providers we will have limited active users and hard to migrate users to new provider. If we do it locally and we dont met the EU regualtions than we can expect fines.)
-2. Modifying audit trail policy while already having a long trail
-3. Expanding database
-4. Expand teaching platform availability
-5. Change the user interface design
---------
 - Enrollment method and rule can change.
 - Approval process can change, relating to cource approval and international relations.
 - Grading rules changes, since there are different methods of calculating grades, and by expanding the possibilities, we need to account for big changes.
